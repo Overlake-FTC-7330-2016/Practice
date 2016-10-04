@@ -1,0 +1,1 @@
+This is b.txt - This line was added when the file was added.

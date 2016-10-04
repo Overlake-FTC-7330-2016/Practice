@@ -1,1 +1,2 @@
 This is c.txt - This line was added when the file was added.
+This line was added in the first commit of feature-3.

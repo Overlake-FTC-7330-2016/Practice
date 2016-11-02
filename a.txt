@@ -1,5 +1,0 @@
-This is a.txt - This line was added when the file was added.
-Added this line for feature_2.
-Added this line.
-
-I added this line Nov 1.
